@@ -8,5 +8,3 @@
   * - boostrap
   * - Adobe AI etc.. pour le front
 *En cours de rédaction
-
-
